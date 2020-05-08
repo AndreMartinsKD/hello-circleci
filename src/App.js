@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Körber CircleCi
+          Hello Circle CI
         </p>
         <a
           className="App-link"
